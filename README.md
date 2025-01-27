@@ -4,7 +4,7 @@
 
 ♥ Iɴᴛʀᴏᴅᴜᴄɪɴɢ: QuizFuzz is a modern, interactive quiz application built with Flutter that delivers an engaging learning experience through dynamic quizzes. The application seamlessly integrates with REST APIs to provide real-time quiz content while maintaining a smooth and intuitive user interface.
 
-![App Cover](https://github.com/hwb06/QuizFuzz_with_RestfulApis/blob/main/App%20Screenshots/Quiz%20Fuzz%20Mockup.jpg)  
+![App Cover](https://github.com/hwb06/QuizFuzz_with_RestfulApis/blob/main/App%20Screenshots/App%20Cover.png)  
 
 ## ♥ **Kᴇʏ Fᴇᴀᴛᴜʀᴇꜱ**:
  ## *Qᴜɪᴢ Mᴀɴᴀɢᴇᴍᴇɴᴛ*:
@@ -75,25 +75,14 @@ The API provides structured quiz data including:
 ## **App UIs Screenshots**
 Here are some screenshots of the app:
 
-![#01](https://github.com/hwb06/QuizFuzz_with_RestfulApis/blob/main/App%20Screenshots/1.jpg)  
-![#02](https://github.com/hwb06/QuizFuzz_with_RestfulApis/blob/main/App%20Screenshots/2.jpg)  
-![#03](https://github.com/hwb06/QuizFuzz_with_RestfulApis/blob/main/App%20Screenshots/3.jpg)  
-![#04](https://github.com/hwb06/QuizFuzz_with_RestfulApis/blob/main/App%20Screenshots/4.jpg)  
-![#05](https://github.com/hwb06/QuizFuzz_with_RestfulApis/blob/main/App%20Screenshots/5.jpg)  
-![#06](https://github.com/hwb06/QuizFuzz_with_RestfulApis/blob/main/App%20Screenshots/6.jpg)  
-![#07](https://github.com/hwb06/QuizFuzz_with_RestfulApis/blob/main/App%20Screenshots/7.jpg)  
-![#08](https://github.com/hwb06/QuizFuzz_with_RestfulApis/blob/main/App%20Screenshots/8.jpg)  
-![#09](https://github.com/hwb06/QuizFuzz_with_RestfulApis/blob/main/App%20Screenshots/9.jpg)  
-![#10](https://github.com/hwb06/QuizFuzz_with_RestfulApis/blob/main/App%20Screenshots/10.jpg)  
-![#11](https://github.com/hwb06/QuizFuzz_with_RestfulApis/blob/main/App%20Screenshots/14.JPG)  
-![#12](https://github.com/hwb06/QuizFuzz_with_RestfulApis/blob/main/App%20Screenshots/15.JPG)  
-![#13](https://github.com/hwb06/QuizFuzz_with_RestfulApis/blob/main/App%20Screenshots/16.JPG)  
-
+![#01](https://github.com/hwb06/QuizFuzz_with_RestfulApis/blob/main/App%20Screenshots/01.png)  
+![#02](https://github.com/hwb06/QuizFuzz_with_RestfulApis/blob/main/App%20Screenshots/03.png)  
+![#03](https://github.com/hwb06/QuizFuzz_with_RestfulApis/blob/main/App%20Screenshots/04.png)  
 
 ### **App Demo**
 You can download and view the demo video of the app here:
 
-[QuizFuzz_App Link](https://github.com/hwb06/QuizFuzz_with_RestfulApis/releases/tag/v2.3.4)
+[QuizFuzz_App Link](https://www.dropbox.com/scl/fi/7svmp4mt0rcz0dt92xetz/Quiz-Fuz-Demo.mp4?rlkey=tz9zd3yfinlvlmr8ytxqm1b3b&st=dml2k57l&dl=0)
 
 ## **Contact Information**
 If you have any questions or feedback, feel free to reach out:
