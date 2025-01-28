@@ -1,25 +1,24 @@
-# flutter_quiz_app
+# QuizFuzz_with_RestfulApis
 
-A new Flutter project.
+## Project Description
 
-## Getting Started
+**Iɴᴛʀᴏᴅᴜᴄɪɴɢ:** QuizFuzz is a modern, interactive quiz application built with Flutter that delivers an engaging learning experience through dynamic quizzes. The application seamlessly integrates with REST APIs to provide real-time quiz content while maintaining a smooth and intuitive user interface. 
 
-<<<<<<< HEAD
-This project is a starting point for a Flutter application.
-=======
-![App Cover](https://github.com/hwb06/QuizFuzz_with_RestfulApis/blob/main/App%20Screenshots/App%20Cover.png)  
->>>>>>> c9583d1979c0d6b64ce5b3e686e8d25acd81b1f2
+![App Cover](https://github.com/hwb06/QuizFuzz_with_RestfulApis/blob/main/assets/Project%20Showcase/App%20Cover.png)  
 
-A few resources to get you started if this is your first Flutter project:
+## Key Features
+## *Qᴜɪᴢ Mᴀɴᴀɢᴇᴍᴇɴᴛ:*
+  - Dynamic Content Loading: Real-time quiz content fetched from REST API 
+  - Intelligent Scoring: Automatic score calculation and tracking 
+  - Progress Monitoring: Visual progress indicators during quiz sessions 
+  - Performance Analytics: Detailed statistics of quiz attempts
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-<<<<<<< HEAD
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
+ ## *Tᴇᴄʜɴɪᴄᴀʟ Sᴘᴇᴄɪғɪᴄᴀᴛɪᴏɴs:*
+  - RESTful API Integration: Seamless data fetching and synchronization 
+  - State Management: Efficient state handling using Provider 
+  - Local Storage: Persistent storage for quiz history and user preferences 
+  - Error Handling: Robust error management system
+    
 ## *Usᴇʀ Exᴘᴇʀɪᴇɴᴄᴇ*
   - **Intuitive Interface:** Clean and user-friendly design
   - **Responsive Layout:** Adapts to different screen sizes
@@ -76,9 +75,9 @@ The API provides structured quiz data including:
 ## **App UIs Screenshots**
 Here are some screenshots of the app:
 
-![#01](https://github.com/hwb06/QuizFuzz_with_RestfulApis/blob/main/App%20Screenshots/01.png)  
-![#02](https://github.com/hwb06/QuizFuzz_with_RestfulApis/blob/main/App%20Screenshots/03.png)  
-![#03](https://github.com/hwb06/QuizFuzz_with_RestfulApis/blob/main/App%20Screenshots/04.png)  
+![#01](https://github.com/hwb06/QuizFuzz_with_RestfulApis/blob/main/Project%20Showcase/01.png)  
+![#02](https://github.com/hwb06/QuizFuzz_with_RestfulApis/blob/main/Project%20Showcase/03.png)  
+![#03](https://github.com/hwb06/QuizFuzz_with_RestfulApis/blob/main/Project%20Showcase/04.png)  
 
 ### **App Demo**
 You can download and view the demo video of the app here:
@@ -98,4 +97,3 @@ The project is currently in active development. New features and improvements ar
 <div align="center">
 Show some ❤️ by starring this repository!
 </div>
->>>>>>> c9583d1979c0d6b64ce5b3e686e8d25acd81b1f2
