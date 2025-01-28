@@ -78,6 +78,7 @@ Here are some screenshots of the app:
 ![#01](https://github.com/hwb06/QuizFuzz_with_RestfulApis/blob/main/assets/Project%20Showcase/01.png)  
 ![#02](https://github.com/hwb06/QuizFuzz_with_RestfulApis/blob/main/assets/Project%20Showcase/02.png)  
 ![#03](https://github.com/hwb06/QuizFuzz_with_RestfulApis/blob/main/assets/Project%20Showcase/03.png)  
+![#04](https://github.com/hwb06/QuizFuzz_with_RestfulApis/blob/main/assets/Project%20Showcase/04.png)  
 
 ### **App Demo**
 You can download and view the demo video of the app here:
